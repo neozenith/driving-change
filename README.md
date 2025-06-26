@@ -1,5 +1,7 @@
 # Driving Architectural Change: Designing whilst Commuting
 
+![Man driving car in traffic but conversing with a bot about software architecture](splash.png)
+
 I was stuck in 1 hour and 50 minutes of traffic getting through the Westgate bridge in Melbourne and decided to put ChatGPT into conversational mode whilst I drove and also "drove" ChatGPT into some deep architectural conversations. 
 
 This blog focuses on "the art of well framed questions" and critical thinking. 
